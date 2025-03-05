@@ -7,7 +7,7 @@
 Here are some of our favorite resources for getting started:
 - [API Playground](https://revup.reverieinc.com/)
 - [Python SDK](https://pypi.org/project/reverie-sdk/)
-- [Node SDK](https://www.npmjs.com/package/reverie-client)
+- [Node SDK](https://www.npmjs.com/package/@reverieit/reverie-client)
 
  # 🌐 Our Community
 
